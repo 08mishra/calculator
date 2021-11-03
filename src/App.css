@@ -9,8 +9,8 @@
 
 @media screen and (max-width:800px) {
     .calculator-container {
-        width: 80%;
+        width: 90%;
         height: 510px;
-        margin: 40px auto;
+        margin: 60px auto;
     }
 }
